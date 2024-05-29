@@ -5,6 +5,6 @@ The task was to make a list of flats to live in for a company's employees that c
 - to suggest the solution according to the given budget and even save some money if possible,
 - to make a proposal of preferred means of transport for all employees to get to the conference and back.
 
-I have uploaded several Excel files, where you can find the story of the research and some SQL code that helped to import and clean data. 
+I have uploaded an Excel file, where you can find the story of the research and some SQL code that helped to import and clean data. 
 
 To cut a long story short, I also uploaded our presentation for you to read the solution briefly. 
