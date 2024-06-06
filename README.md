@@ -8,3 +8,5 @@ The task was to make a list of flats to live in for a company's employees that c
 I have uploaded an Excel file, where you can find the story of the research and some SQL code that helped to import and clean data. 
 
 To cut a long story short, I also uploaded our presentation for you to read the solution briefly. 
+
+[Dataset](https://www.kaggle.com/datasets/airbnb/boston)
